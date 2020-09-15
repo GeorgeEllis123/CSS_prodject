@@ -7,6 +7,7 @@ h1 {
   text-align: center;
   font-size: 300%;
   background-color: dodgerblue;
+  text-transform: uppercase;
   }
 h2 {
   text-align: center;
@@ -15,11 +16,14 @@ h2 {
   font-family: sans-serif;
   color: tomato;
   word-spacing: 7px;
+  text-transform: capitalize;
   }
 h3 {
   font-size: 150%;
   font-family: sans-serif;
   text-decoration: underline;
+  text-shadow: 2px 2px 5px red;
+  text-transform: capitalize;
   }
 caption {
   font-size: 125%;
@@ -60,4 +64,7 @@ tr:nth-child(even) {
   }
 li {
   line-height: .95;
+  }
+.bold {
+  font-weight: 1000;
   }
