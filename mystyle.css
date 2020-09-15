@@ -50,3 +50,10 @@ tr:nth-child(odd) {
 tr:nth-child(even) {
   color: rgb(70, 70, 70);
   }
+.section-photo {
+  width: 400px;
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
