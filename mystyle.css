@@ -1,6 +1,6 @@
 body {
   background-color: powderblue;
-}
+  }
 h1 {
   border: 2px solid black;
   margin: 50px;
@@ -24,7 +24,7 @@ caption {
   font-size: 125%;
   text-decoration: underline;
   font-family: sans-serif;
-}
+  }
 .photo-caption {
   text-align: center;
   }
