@@ -14,6 +14,7 @@ h2 {
   text-decoration: underline;
   font-family: sans-serif;
   color: tomato;
+  word-spacing: 7px;
   }
 h3 {
   font-size: 150%;
@@ -56,4 +57,7 @@ tr:nth-child(even) {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  }
+li {
+  line-height: .95;
   }
