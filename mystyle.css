@@ -1,0 +1,52 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  border: 2px solid black;
+  margin: 50px;
+  text-align: center;
+  font-size: 300%;
+  background-color: dodgerblue;
+  }
+h2 {
+  text-align: center;
+  font-size: 200%;
+  text-decoration: underline;
+  font-family: sans-serif;
+  color: tomato;
+  }
+h3 {
+  font-size: 150%;
+  font-family: sans-serif;
+  text-decoration: underline;
+  }
+caption {
+  font-size: 125%;
+  text-decoration: underline;
+  font-family: sans-serif;
+}
+.photo-caption {
+  text-align: center;
+  }
+.info {
+  background-color: lightgray;
+  padding: 20px
+  }
+table {
+  font-family: times;
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 125%;
+  }
+td, th {
+  text-align: center;
+  padding: 9px;
+  border: 1px solid black;
+  }
+tr:nth-child(odd) {
+  background-color: rgb(156, 175, 193);
+  color: rgb(100, 100, 100)
+  }
+tr:nth-child(even) {
+  color: rgb(70, 70, 70);
+  }
