@@ -1,6 +1,7 @@
 body {
   background-color: powderblue;
-  }
+}
+
 h1 {
   border: 2px solid black;
   margin: 50px;
@@ -8,7 +9,8 @@ h1 {
   font-size: 300%;
   background-color: dodgerblue;
   text-transform: uppercase;
-  }
+}
+
 h2 {
   text-align: center;
   font-size: 200%;
@@ -17,60 +19,73 @@ h2 {
   color: tomato;
   word-spacing: 7px;
   text-transform: capitalize;
-  }
+}
+
 h3 {
   font-size: 150%;
   font-family: sans-serif;
   text-decoration: underline;
   text-shadow: 2px 2px 5px red;
   text-transform: capitalize;
-  }
+}
+
 caption {
   font-size: 125%;
   text-decoration: underline;
   font-family: sans-serif;
-  }
+}
+
 .photo-caption {
   text-align: center;
-  }
+}
+
 .info {
   background-color: lightgray;
-  padding: 20px
-  }
+  padding: 20px;
+}
+
 table {
   font-family: times;
   border-collapse: collapse;
   width: 100%;
   font-size: 125%;
   table-layout: auto;
-  }
+}
+
 td, th {
   text-align: center;
   padding: 9px;
   border: 1px solid black;
-  }
+}
+
 tr:nth-child(odd) {
   background-color: rgb(156, 175, 193);
-  color: rgb(100, 100, 100)
-  }
+  color: rgb(100, 100, 100);
+}
+
 tr:nth-child(even) {
   color: rgb(70, 70, 70);
-  }
+}
+
 .section-photo {
   width: 400px;
   height: 400px;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  }
+}
+
 li {
   line-height: .95;
-  }
+}
+
 .bold {
   font-weight: 1000;
-  }
+}
+
 ul {
     list-style-type: circle;
     list-style-position: inside;
-  }
+}
+
 tr:hover {background-color: #f5f5f5;}
